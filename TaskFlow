@@ -57,6 +57,10 @@ def main():
 
         choice = input("Select an option: ")
 
+    def list_tasks(self):
+        if not self.tasks:
+            print("No tasks available.")
+            return
         if choice == "1":
             title = input("Enter task title: ")
             manager.add_task(title)
