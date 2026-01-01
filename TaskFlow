@@ -17,6 +17,11 @@ Run the script and follow the on-screen menu:
 ```bash
 python taskflow.py
 
+## Features
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
+- Simple and readable codebase
 ---
 
 ## Code (taskflow.py)
