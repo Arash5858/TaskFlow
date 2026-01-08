@@ -17,6 +17,8 @@ Run the script and follow the on-screen menu:
 ```bash
 python taskflow.py
 
+## Requirements
+- Python 3.8+
 ## Features
 - Add new tasks
 - View all tasks
