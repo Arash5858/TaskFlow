@@ -46,6 +46,12 @@ python taskflow.py
             print(f"{index}. {task['title']} [{status}]")
 python taskflow.py
 
+## Features
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
+- Simple and readable codebase
+
     def complete_task(self, index):
         try:
             self.tasks[index - 1]["completed"] = True
