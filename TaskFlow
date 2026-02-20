@@ -3,6 +3,8 @@
 TaskFlow is a lightweight command-line task manager written in Python.
 It allows users to add, list, and complete daily tasks with minimal setup.
 
+## Requirements
+- Python 3.8+
 ## Features
 - Add new tasks
 - View all tasks
