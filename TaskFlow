@@ -38,6 +38,13 @@ class TaskManager:
         self.tasks.append({"title": title, "completed": False})
 python taskflow.py
 
+## Requirements
+- Python 3.8+
+## Features
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
+- Simple and readable codebase
     def list_tasks(self):
         if not self.tasks:
             print("No tasks available.")
