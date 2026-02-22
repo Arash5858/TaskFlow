@@ -80,11 +80,11 @@ def main():
         print("4. Exit")
 
         choice = input("Select an option: ")
-
-    def list_tasks(self):
-        if not self.tasks:
-            print("No tasks available.")
-            return
+- Python 3.8+
+## Features
+- Add new tasks
+- View all tasks
+- Mark tasks as completed
         if choice == "1":
             title = input("Enter task title: ")
             manager.add_task(title)
