@@ -13,6 +13,10 @@ It allows users to add, list, and complete daily tasks with minimal setup.
 
 ## Requirements
 - Python 3.8+
+## Features
+- Add new tasks
+## Requirements
+- Python 3.8+
 
 ## Usage
 Run the script and follow the on-screen menu:
