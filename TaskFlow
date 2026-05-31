@@ -21,7 +21,9 @@ It allows users to add, list, and complete daily tasks with minimal setup.
 - Add new tasks
 ## Requirements
 - Python 3.8+
-
+ Requirements
+- Python 3.8+
+## Features
 ## Usage
 Run the script and follow the on-screen menu:
 ```bash
